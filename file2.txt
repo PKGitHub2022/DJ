@@ -1,0 +1,7 @@
+Welcome to GIT concepts
+local repo
+master repo
+branches
+merge/rebase
+git tag
+etc
