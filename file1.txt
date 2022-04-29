@@ -10,4 +10,15 @@ Developer 1
 conflict
 
 Developer 1
+<<<<<<< Updated upstream
 -
+
+==========================================================
+Author : PK
+Version:1.2
+App:sp
+
+working on advanced GIT configuration...
+
+GIT stashing
+==========================================================
