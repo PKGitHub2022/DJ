@@ -21,4 +21,5 @@ App:sp
 working on advanced GIT configuration...
 
 GIT stashing
+GIT stashing-1
 ==========================================================
