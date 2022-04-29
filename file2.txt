@@ -5,3 +5,8 @@ branches
 merge/rebase
 git tag
 etc
+
+version:1.2
+app:abc
+
+Developer 2
